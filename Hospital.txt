@@ -1,0 +1,2 @@
+Vasya; Petrov; 18.05.1942;true
+Michael;Jackson;29.08.1958;false
