@@ -1,2 +1,4 @@
-Vasya; Petrov; 18.05.1942;true
-Michael;Jackson;29.08.1958;false
+Vasya; Petrov; 1942-05-07;true
+Michael;Jackson;1959-12-05;false
+Victor; Smirnov; 1992-05-07;true
+Vasya;Pupkin;1969-12-05;false
