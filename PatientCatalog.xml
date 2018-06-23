@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><hospital><Patient><name>Petrov</name><lastName>Вася</lastName><date>1988-06-06</date><healds>true</healds></Patient><Patient><name>Petrov</name><lastName>Вася</lastName><date>1988-12-13</date><healds>true</healds></Patient></hospital>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><hospital><Patient><name>Petrov2</name><lastName>Вася</lastName><date>1988-06-06</date><healds>true</healds></Patient><Patient><name>Petrov</name><lastName>Вася</lastName><date>1988-12-13</date><healds>true</healds></Patient></hospital>
