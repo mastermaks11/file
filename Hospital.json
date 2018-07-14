@@ -63,17 +63,5 @@
      	 ],
          "visible": true
       }
-     {
-        "id": 5,
-        "name": "Voranov Pavel",
-        "degree": "PPP",
-        "dateOfBirth": "1985-05-04",
-        "yearEperience": 14,
-        "type": [
-    		  "Nos",
-     		  "Ucho"
-     	 ],
-         "visible": true
-      }
     ]
 }
