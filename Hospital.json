@@ -1,13 +1,13 @@
 {
-  "name": "Super bolnica 5",
+  "name": "Transplantatiya",
   "location": "Minsk",
   "doctors": [
       {
         "id": 0,
-        "name": "Ivan Ivanov",
+        "name": "Pavel Ivanov",
         "degree": "FTT",
         "dateOfBirth": "2004-10-25",
-        "yearEperience": 20,
+        "yearEperience": 10,
         "type": [
     		  "Ucho",
      		  "Noga"
@@ -18,8 +18,8 @@
         "id": 1,
         "name": "Alex Petrov",
         "degree": "PPP",
-        "dateOfBirth": "1998-03-24",
-        "yearEperience": 15,
+        "dateOfBirth": "1990-03-24",
+        "yearEperience": 5,
         "type": [
     		  "Ucho",
      		  "Noga",
@@ -29,10 +29,10 @@
       },
       {
         "id": 2,
-        "name": "Elena Sergeevna",
+        "name": "Vera Sergeevna",
         "degree": "FTT",
-        "dateOfBirth": "1999-05-02",
-        "yearEperience": 10,
+        "dateOfBirth": "1995-05-02",
+        "yearEperience": 9,
         "type": [
     		  "Nos",
      		  "Palec"
@@ -41,10 +41,10 @@
       },
       {
         "id": 3,
-        "name": "Olga Hlkdkfjj",
+        "name": "Natasha Hlkdkfjj",
         "degree": "FTT",
-        "dateOfBirth": "1995-12-10",
-        "yearEperience": 34,
+        "dateOfBirth": "1995-12-01",
+        "yearEperience": 15,
         "type": [
     		  "Gorlo",
      		  "Ucho"
@@ -53,8 +53,8 @@
       },
       {
         "id": 4,
-        "name": "Sergei Dfsdkjd",
-        "degree": "PPP",
+        "name": "Pavel Dfsdkjd",
+        "degree": "FTT",
         "dateOfBirth": "2005-05-04",
         "yearEperience": 12,
         "type": [
